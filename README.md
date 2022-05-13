@@ -3,8 +3,10 @@ Collection of wet lab methods used @PuckerLab.
 
 # CTAB-based DNA extraction (high throughput)
 
+[GABI-Kat protocol](https://www.gabi-kat.de/methods/dna-preparation.html)
 
-Reference: 
+Reference: [Kleinboelting et al., 2012](http://www.ncbi.nlm.nih.gov/pubmed/22080561?dopt=Abstract)
+
 
 # CTAB-based DNA extraction (ONT sequencing)
 
