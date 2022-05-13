@@ -1,5 +1,5 @@
 # pbb-wetlab
-Collection of wet lab methods used @PuckerLab.
+Collection of wet lab methods used [@PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb).
 
 # Edwards DNA extraction protocol
 
