@@ -1,6 +1,13 @@
 # pbb-wetlab
 Collection of wet lab methods used @PuckerLab.
 
+# Edwards DNA extraction protocol
+
+https://www.floridamuseum.ufl.edu/wp-content/uploads/sites/95/2014/02/Edwards1991.pdf
+
+Reference: Edwards et al. (1991, NAR 19:1349)
+
+
 # CTAB-based DNA extraction (high throughput)
 
 [GABI-Kat protocol](https://www.gabi-kat.de/methods/dna-preparation.html)
